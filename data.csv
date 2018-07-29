@@ -1,4 +1,8 @@
-participant_name, swap_number, satisfaction_rating
+participant_name, trade_number, happiness_rating
+-,0,-
+-,0,-
+-,0,-
+-,0,-
 -,1,-
 -,1,-
 -,1,-
