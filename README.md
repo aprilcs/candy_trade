@@ -7,6 +7,8 @@
 
 [The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences](https://www.gitbook.com/book/bids/the-practice-of-reproducible-research/details "The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences."). Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). Oakland, CA: University of California Press. https://www.gitbook.com/book/bids/the-practice-of-reproducible-research/details
 
+[Jupyter Notebooks and reproducible data science](https://markwoodbridge.com/2017/03/05/jupyter-reproducible-science.html). Woodbridge M, Sanz D, Mietchen D, & Mounce R (2017). 
+
 ## Exercises
 
 #### Exercise 1:
