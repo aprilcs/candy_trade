@@ -58,7 +58,7 @@
 
 #### Exercise 7:
 
-* Make a data dictionary.
+* Create a data dictionary.
 * Resources on making a great data dictionary:
   * DataONE: [https://www.dataone.org/best-practices/create-data-dictionary](https://www.dataone.org/best-practices/create-data-dictionary)
   * McGill Codebook Cookbook: [http://www.medicine.mcgill.ca/epidemiology/joseph/pbelisle/CodebookCookbook.html](http://www.medicine.mcgill.ca/epidemiology/joseph/pbelisle/CodebookCookbook.html)
@@ -95,7 +95,7 @@
   * Karl Broman: [http://kbroman.org/steps2rr/pages/licenses.html](http://kbroman.org/steps2rr/pages/licenses.html)
   * Open Source Initiative: [https://opensource.org/licenses](https://opensource.org/licenses)
 
-#### Exercise 10:
-* Share your notebooks.
+#### Exercise 11:
+* Share your notebooks!
     * Check whether your container is ready to publish by hitting "Run". 
     * Following the dropdown next to "Run", start an interactive Jupyter session.
