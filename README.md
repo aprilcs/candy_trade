@@ -73,7 +73,7 @@
 
 #### Exercise 8:
 
-* Create a master script (aka driver or controller script) that executes your notebooks in order.
+* Create a master script that executes your notebooks in order.
    * Create a file in the code directory.
    * Name the file "run.sh".
 * Use nbconvert to render your notebook.
