@@ -1,0 +1,27 @@
+﻿participant_name,trade_number,happiness_rating
+venkat vuddanda,0,8
+Angela,0,6
+Julie,0,3
+Scott,0,5
+Dan,0,9
+April,0,5
+Angela,1,7
+Dan,1,9
+Scott,1,8
+April,1,7
+x,1,9
+Julie,1,4
+x,0,8
+Dan,2,10
+x,2,10
+x,2,10
+Angela,2,10
+Julie,2,7
+yanxin,1,3
+yanxin,0,8
+Rory,0,5
+Rory,1,5
+Rory,2,10
+Arti,0,5
+Arti,1,6
+Arti,2,8
