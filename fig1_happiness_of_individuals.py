@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('../data/data.csv')
+data = pd.read_csv('C:/Desktop/aprilcs/data/data.csv')
 data
 
 fig, ax = plt.subplots()
