@@ -1,4 +1,4 @@
-FROM registry.codeocean.com/codeocean/miniconda3:4.5.11-python3.7-ubuntu18.04
+FROM registry.codeocean.com/codeocean/miniconda3:4.6.14-python3.7.3-ubuntu18.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
